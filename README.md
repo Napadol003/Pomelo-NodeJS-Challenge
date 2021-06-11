@@ -8,11 +8,10 @@ Here's is the NodeJS Challenge which I get from Pomelo.
 # Installation
 
 1. Clone this repository
-2. Start the server using command node nodetest.js
+2. Start the server using command node index.js
 
 # Note
 
-Challenge 1 - put the input JSON file in the same folder of nodetest.js
-
+Challenge 1 - put the input JSON file in the same folder of index.js which it will generate JSON file
 
 Challenge 2 - Uncomplete
