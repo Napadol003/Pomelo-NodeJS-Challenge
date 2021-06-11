@@ -13,4 +13,6 @@ Here's is the NodeJS Challenge which I get from Pomelo.
 # Note
 
 Challenge 1 - put the input JSON file in the same folder of nodetest.js
+
+
 Challenge 2 - Uncomplete
